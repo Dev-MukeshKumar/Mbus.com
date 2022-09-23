@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mbus.com", "Mbus.com\Mbus.com.csproj", "{A2E0207D-C140-4C12-9852-B169CBBE0BFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mbus.com.Tests", "Mbus.com.Tests\Mbus.com.Tests.csproj", "{C287FC72-4A82-4B95-B9DE-8D4CE09EDF1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2E0207D-C140-4C12-9852-B169CBBE0BFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2E0207D-C140-4C12-9852-B169CBBE0BFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2E0207D-C140-4C12-9852-B169CBBE0BFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2E0207D-C140-4C12-9852-B169CBBE0BFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C287FC72-4A82-4B95-B9DE-8D4CE09EDF1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C287FC72-4A82-4B95-B9DE-8D4CE09EDF1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C287FC72-4A82-4B95-B9DE-8D4CE09EDF1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C287FC72-4A82-4B95-B9DE-8D4CE09EDF1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEF3C92E-E5AB-4F21-8C7B-12D56E7FD73D}
+	EndGlobalSection
+EndGlobal
